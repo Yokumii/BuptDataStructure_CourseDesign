@@ -1,0 +1,314 @@
+{
+  "university": "室内",
+  "nodes": [
+    {
+      "id": "elevator_1",
+      "type": "facility",
+      "longitude": 116.30215,
+      "latitude": 39.97025,
+      "name": "电梯1",
+      "facility_type": "elevator"
+    },
+    {
+      "id": "staircase_a",
+      "type": "facility",
+      "longitude": 116.30185,
+      "latitude": 39.97045,
+      "name": "楼梯A",
+      "facility_type": "stair"
+    },
+    {
+      "id": "staircase_b",
+      "type": "facility",
+      "longitude": 116.30245,
+      "latitude": 39.97045,
+      "name": "楼梯B",
+      "facility_type": "stair"
+    },
+    {
+      "id": "toilet_m",
+      "type": "facility",
+      "longitude": 116.30195,
+      "latitude": 39.96985,
+      "name": "男厕所",
+      "facility_type": "toilet"
+    },
+    {
+      "id": "toilet_f",
+      "type": "facility",
+      "longitude": 116.30235,
+      "latitude": 39.96985,
+      "name": "女厕所",
+      "facility_type": "toilet"
+    },
+    {
+      "id": "room_101",
+      "type": "room",
+      "longitude": 116.30175,
+      "latitude": 39.97015,
+      "name": "房间101",
+      "room_type": "office"
+    },
+    {
+      "id": "room_102",
+      "type": "room",
+      "longitude": 116.30200,
+      "latitude": 39.97015,
+      "name": "房间102",
+      "room_type": "office"
+    },
+    {
+      "id": "room_103",
+      "type": "room",
+      "longitude": 116.30225,
+      "latitude": 39.97015,
+      "name": "房间103",
+      "room_type": "office"
+    },
+    {
+      "id": "room_104",
+      "type": "room",
+      "longitude": 116.30170,
+      "latitude": 39.97055,
+      "name": "房间104",
+      "room_type": "office"
+    },
+    {
+      "id": "room_105",
+      "type": "room",
+      "longitude": 116.30205,
+      "latitude": 39.97055,
+      "name": "房间105",
+      "room_type": "office"
+    },
+    {
+      "id": "room_106",
+      "type": "room",
+      "longitude": 116.30240,
+      "latitude": 39.97055,
+      "name": "房间106",
+      "room_type": "office"
+    },
+    {
+      "id": "storage",
+      "type": "facility",
+      "longitude": 116.30235,
+      "latitude": 39.96995,
+      "name": "储物室",
+      "facility_type": "storage"
+    },
+    {
+      "id": "exit_east",
+      "type": "facility",
+      "longitude": 116.30255,
+      "latitude": 39.97030,
+      "name": "东安全出口",
+      "facility_type": "emergency_exit"
+    },
+    {
+      "id": "exit_west",
+      "type": "facility",
+      "longitude": 116.30165,
+      "latitude": 39.97030,
+      "name": "西安全出口",
+      "facility_type": "emergency_exit"
+    },
+    {
+      "id": "j_corridor_1",
+      "type": "junction",
+      "longitude": 116.30175,
+      "latitude": 39.97030
+    },
+    {
+      "id": "j_corridor_2",
+      "type": "junction",
+      "longitude": 116.30185,
+      "latitude": 39.97030
+    },
+    {
+      "id": "j_corridor_3",
+      "type": "junction",
+      "longitude": 116.30200,
+      "latitude": 39.97030
+    },
+    {
+      "id": "j_corridor_4",
+      "type": "junction",
+      "longitude": 116.30215,
+      "latitude": 39.97030
+    },
+    {
+      "id": "j_corridor_5",
+      "type": "junction",
+      "longitude": 116.30225,
+      "latitude": 39.97030
+    },
+    {
+      "id": "j_corridor_6",
+      "type": "junction",
+      "longitude": 116.30245,
+      "latitude": 39.97030
+    },
+    {
+      "id": "j_hall_center",
+      "type": "junction",
+      "longitude": 116.30215,
+      "latitude": 39.97000
+    },
+    {
+      "id": "j_toilet_area",
+      "type": "junction",
+      "longitude": 116.30210,
+      "latitude": 39.96985
+    }
+  ],
+  "edges": [
+    {
+      "source": "exit_west",
+      "target": "j_corridor_1",
+      "distance": 8.5,
+      "road_type": "corridor",
+      "weight_factor": 1.0
+    },
+    {
+      "source": "j_corridor_1",
+      "target": "room_101",
+      "distance": 11.1,
+      "road_type": "doorway",
+      "weight_factor": 1.2
+    },
+    {
+      "source": "j_corridor_1",
+      "target": "j_corridor_2",
+      "distance": 8.5,
+      "road_type": "corridor",
+      "weight_factor": 1.0
+    },
+    {
+      "source": "j_corridor_2",
+      "target": "staircase_a",
+      "distance": 11.1,
+      "road_type": "doorway",
+      "weight_factor": 1.2
+    },
+    {
+      "source": "j_corridor_2",
+      "target": "j_corridor_3",
+      "distance": 12.8,
+      "road_type": "corridor",
+      "weight_factor": 1.0
+    },
+    {
+      "source": "j_corridor_3",
+      "target": "room_102",
+      "distance": 11.1,
+      "road_type": "doorway",
+      "weight_factor": 1.2
+    },
+    {
+      "source": "j_corridor_3",
+      "target": "j_corridor_4",
+      "distance": 12.8,
+      "road_type": "corridor",
+      "weight_factor": 1.0
+    },
+    {
+      "source": "j_corridor_4",
+      "target": "elevator_1",
+      "distance": 5.6,
+      "road_type": "doorway",
+      "weight_factor": 1.2
+    },
+    {
+      "source": "j_corridor_4",
+      "target": "j_hall_center",
+      "distance": 33.3,
+      "road_type": "corridor",
+      "weight_factor": 1.0
+    },
+    {
+      "source": "j_hall_center",
+      "target": "j_toilet_area",
+      "distance": 5.6,
+      "road_type": "corridor",
+      "weight_factor": 1.0
+    },
+    {
+      "source": "j_toilet_area",
+      "target": "toilet_m",
+      "distance": 8.5,
+      "road_type": "doorway",
+      "weight_factor": 1.2
+    },
+    {
+      "source": "j_toilet_area",
+      "target": "toilet_f",
+      "distance": 8.5,
+      "road_type": "doorway",
+      "weight_factor": 1.2
+    },
+    {
+      "source": "j_toilet_area",
+      "target": "storage",
+      "distance": 11.1,
+      "road_type": "doorway",
+      "weight_factor": 1.2
+    },
+    {
+      "source": "j_corridor_4",
+      "target": "j_corridor_5",
+      "distance": 8.5,
+      "road_type": "corridor",
+      "weight_factor": 1.0
+    },
+    {
+      "source": "j_corridor_5",
+      "target": "room_103",
+      "distance": 11.1,
+      "road_type": "doorway",
+      "weight_factor": 1.2
+    },
+    {
+      "source": "j_corridor_5",
+      "target": "j_corridor_6",
+      "distance": 17.0,
+      "road_type": "corridor",
+      "weight_factor": 1.0
+    },
+    {
+      "source": "j_corridor_6",
+      "target": "staircase_b",
+      "distance": 11.1,
+      "road_type": "doorway",
+      "weight_factor": 1.2
+    },
+    {
+      "source": "j_corridor_6",
+      "target": "exit_east",
+      "distance": 8.5,
+      "road_type": "corridor",
+      "weight_factor": 1.0
+    },
+    {
+      "source": "j_corridor_1",
+      "target": "room_104",
+      "distance": 22.2,
+      "road_type": "corridor",
+      "weight_factor": 1.0
+    },
+    {
+      "source": "j_corridor_3",
+      "target": "room_105",
+      "distance": 22.2,
+      "road_type": "corridor",
+      "weight_factor": 1.0
+    },
+    {
+      "source": "j_corridor_5",
+      "target": "room_106",
+      "distance": 22.2,
+      "road_type": "corridor",
+      "weight_factor": 1.0
+    }
+  ]
+}

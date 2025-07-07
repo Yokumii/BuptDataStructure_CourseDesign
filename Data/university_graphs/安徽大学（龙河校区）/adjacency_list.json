@@ -1,0 +1,6242 @@
+{
+  "n_0": [
+    {
+      "node": "n_1",
+      "weight": 13.737201020331039,
+      "distance": 7.631778344628355,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_1": [
+    {
+      "node": "n_0",
+      "weight": 13.737201020331039,
+      "distance": 7.631778344628355,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_2",
+      "weight": 390.32052698437485,
+      "distance": 216.84473721354152,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_125",
+      "weight": 160.80027280514204,
+      "distance": 73.0910330932464,
+      "road_type": "secondary",
+      "weight_factor": 2.2
+    },
+    {
+      "node": "n_126",
+      "weight": 140.96373335704132,
+      "distance": 64.07442425320059,
+      "road_type": "secondary",
+      "weight_factor": 2.2
+    }
+  ],
+  "n_2": [
+    {
+      "node": "n_1",
+      "weight": 390.32052698437485,
+      "distance": 216.84473721354152,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_3",
+      "weight": 49.48137329643806,
+      "distance": 27.48965183135448,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_3": [
+    {
+      "node": "n_2",
+      "weight": 49.48137329643806,
+      "distance": 27.48965183135448,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_4",
+      "weight": 35.731966089269775,
+      "distance": 19.85109227181654,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_182",
+      "weight": 12.329677530564327,
+      "distance": 8.806912521831661,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_4": [
+    {
+      "node": "n_3",
+      "weight": 35.731966089269775,
+      "distance": 19.85109227181654,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_5",
+      "weight": 740.7788907637525,
+      "distance": 411.54382820208474,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_5": [
+    {
+      "node": "n_4",
+      "weight": 740.7788907637525,
+      "distance": 411.54382820208474,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_6",
+      "weight": 296.8604470908568,
+      "distance": 164.92247060603154,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_6": [
+    {
+      "node": "n_5",
+      "weight": 296.8604470908568,
+      "distance": 164.92247060603154,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_166",
+      "weight": 217.09500873937333,
+      "distance": 86.83800349574935,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_167",
+      "weight": 141.01808981214103,
+      "distance": 56.407235924856415,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_7": [
+    {
+      "node": "n_8",
+      "weight": 40.464570941699584,
+      "distance": 20.232285470849792,
+      "road_type": "secondary_link",
+      "weight_factor": 2.0
+    },
+    {
+      "node": "n_34",
+      "weight": 21.09527587890625,
+      "distance": 15.06805419921875,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_112",
+      "weight": 627.5975906974825,
+      "distance": 251.03903627899297,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_113",
+      "weight": 463.6269813298336,
+      "distance": 185.45079253193342,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_8": [
+    {
+      "node": "n_7",
+      "weight": 40.464570941699584,
+      "distance": 20.232285470849792,
+      "road_type": "secondary_link",
+      "weight_factor": 2.0
+    }
+  ],
+  "n_9": [
+    {
+      "node": "n_10",
+      "weight": 105.31449959127232,
+      "distance": 58.50805532848463,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_10": [
+    {
+      "node": "n_9",
+      "weight": 105.31449959127232,
+      "distance": 58.50805532848463,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_11",
+      "weight": 56.158200248819284,
+      "distance": 31.199000138232936,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_11": [
+    {
+      "node": "n_10",
+      "weight": 56.158200248819284,
+      "distance": 31.199000138232936,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_12",
+      "weight": 150.79062098730702,
+      "distance": 83.77256721517057,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_12": [
+    {
+      "node": "n_11",
+      "weight": 150.79062098730702,
+      "distance": 83.77256721517057,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_13",
+      "weight": 62.257963032803175,
+      "distance": 34.58775724044621,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_13": [
+    {
+      "node": "n_12",
+      "weight": 62.257963032803175,
+      "distance": 34.58775724044621,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_14",
+      "weight": 135.58771414157394,
+      "distance": 75.32650785642996,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_14": [
+    {
+      "node": "n_13",
+      "weight": 135.58771414157394,
+      "distance": 75.32650785642996,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_15",
+      "weight": 23.408972992489176,
+      "distance": 13.00498499582732,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_15": [
+    {
+      "node": "n_14",
+      "weight": 23.408972992489176,
+      "distance": 13.00498499582732,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_16",
+      "weight": 75.81216328168065,
+      "distance": 42.117868489822584,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_16": [
+    {
+      "node": "n_15",
+      "weight": 75.81216328168065,
+      "distance": 42.117868489822584,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_17",
+      "weight": 216.3164943830198,
+      "distance": 120.1758302127888,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_17": [
+    {
+      "node": "n_16",
+      "weight": 216.3164943830198,
+      "distance": 120.1758302127888,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_18",
+      "weight": 258.25266083367757,
+      "distance": 143.47370046315422,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_18": [
+    {
+      "node": "n_17",
+      "weight": 258.25266083367757,
+      "distance": 143.47370046315422,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_19",
+      "weight": 21.983382467993025,
+      "distance": 12.212990259996126,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_19": [
+    {
+      "node": "n_18",
+      "weight": 21.983382467993025,
+      "distance": 12.212990259996126,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_20",
+      "weight": 82.48396147774525,
+      "distance": 45.8244230431918,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_20": [
+    {
+      "node": "n_19",
+      "weight": 82.48396147774525,
+      "distance": 45.8244230431918,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_21",
+      "weight": 90.7307921950869,
+      "distance": 50.40599566393716,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_21": [
+    {
+      "node": "n_20",
+      "weight": 90.7307921950869,
+      "distance": 50.40599566393716,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_22",
+      "weight": 28.87179021830105,
+      "distance": 16.039883454611694,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_22": [
+    {
+      "node": "n_21",
+      "weight": 28.87179021830105,
+      "distance": 16.039883454611694,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_23",
+      "weight": 86.61537065490315,
+      "distance": 48.11965036383508,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_23": [
+    {
+      "node": "n_22",
+      "weight": 86.61537065490315,
+      "distance": 48.11965036383508,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_24",
+      "weight": 49.44920423465892,
+      "distance": 27.471780130366067,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_24": [
+    {
+      "node": "n_23",
+      "weight": 49.44920423465892,
+      "distance": 27.471780130366067,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_25",
+      "weight": 97.5906628661858,
+      "distance": 54.21703492565878,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_25": [
+    {
+      "node": "n_24",
+      "weight": 97.5906628661858,
+      "distance": 54.21703492565878,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_26",
+      "weight": 35.731966089269775,
+      "distance": 19.85109227181654,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_26": [
+    {
+      "node": "n_25",
+      "weight": 35.731966089269775,
+      "distance": 19.85109227181654,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_27",
+      "weight": 13.75006557849938,
+      "distance": 7.6389253213885455,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_27": [
+    {
+      "node": "n_26",
+      "weight": 13.75006557849938,
+      "distance": 7.6389253213885455,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_28",
+      "weight": 132.03293268306646,
+      "distance": 73.35162926837026,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_28": [
+    {
+      "node": "n_27",
+      "weight": 132.03293268306646,
+      "distance": 73.35162926837026,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_29",
+      "weight": 57.76092866605662,
+      "distance": 32.089404814475905,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_29": [
+    {
+      "node": "n_28",
+      "weight": 57.76092866605662,
+      "distance": 32.089404814475905,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_30",
+      "weight": 94.84660024932133,
+      "distance": 52.69255569406741,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_30": [
+    {
+      "node": "n_29",
+      "weight": 94.84660024932133,
+      "distance": 52.69255569406741,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_31",
+      "weight": 78.36863593357896,
+      "distance": 43.53813107421054,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_31": [
+    {
+      "node": "n_30",
+      "weight": 78.36863593357896,
+      "distance": 43.53813107421054,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_32",
+      "weight": 94.86213333932726,
+      "distance": 52.70118518851515,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_32": [
+    {
+      "node": "n_31",
+      "weight": 94.86213333932726,
+      "distance": 52.70118518851515,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_33",
+      "weight": 17.852783203125004,
+      "distance": 9.918212890625,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_33": [
+    {
+      "node": "n_32",
+      "weight": 17.852783203125004,
+      "distance": 9.918212890625,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_127",
+      "weight": 102.4002316097205,
+      "distance": 46.545559822600225,
+      "road_type": "secondary",
+      "weight_factor": 2.2
+    },
+    {
+      "node": "n_128",
+      "weight": 146.90420467229526,
+      "distance": 66.77463848740693,
+      "road_type": "secondary",
+      "weight_factor": 2.2
+    }
+  ],
+  "n_34": [
+    {
+      "node": "n_7",
+      "weight": 21.09527587890625,
+      "distance": 15.06805419921875,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_35",
+      "weight": 23.522797976504005,
+      "distance": 16.80199855464572,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_35": [
+    {
+      "node": "n_34",
+      "weight": 23.522797976504005,
+      "distance": 16.80199855464572,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_36",
+      "weight": 43.805748468282815,
+      "distance": 31.28982033448773,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_201",
+      "weight": 59.835906949666146,
+      "distance": 42.73993353547582,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_36": [
+    {
+      "node": "n_35",
+      "weight": 43.805748468282815,
+      "distance": 31.28982033448773,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_37",
+      "weight": 26.704215970041034,
+      "distance": 19.07443997860074,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_49",
+      "weight": 22.858664232365243,
+      "distance": 16.32761730883232,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_37": [
+    {
+      "node": "n_36",
+      "weight": 26.704215970041034,
+      "distance": 19.07443997860074,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_38",
+      "weight": 13.784998549496786,
+      "distance": 9.846427535354849,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_50",
+      "weight": 40.60243062171554,
+      "distance": 29.001736158368242,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_38": [
+    {
+      "node": "n_37",
+      "weight": 13.784998549496786,
+      "distance": 9.846427535354849,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_39",
+      "weight": 34.463272256108276,
+      "distance": 24.616623040077343,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_39": [
+    {
+      "node": "n_38",
+      "weight": 34.463272256108276,
+      "distance": 24.616623040077343,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_40",
+      "weight": 36.97071474507308,
+      "distance": 26.407653389337916,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_288",
+      "weight": 22.889971663249522,
+      "distance": 15.259981108833017,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_40": [
+    {
+      "node": "n_39",
+      "weight": 36.97071474507308,
+      "distance": 26.407653389337916,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_41",
+      "weight": 17.222840648831127,
+      "distance": 12.302029034879379,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_41": [
+    {
+      "node": "n_40",
+      "weight": 17.222840648831127,
+      "distance": 12.302029034879379,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_42",
+      "weight": 10.034031646453212,
+      "distance": 7.167165461752295,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_205",
+      "weight": 36.14666711826294,
+      "distance": 25.81904794161639,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_42": [
+    {
+      "node": "n_41",
+      "weight": 10.034031646453212,
+      "distance": 7.167165461752295,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_43",
+      "weight": 32.68786018563587,
+      "distance": 23.348471561168477,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_43": [
+    {
+      "node": "n_42",
+      "weight": 32.68786018563587,
+      "distance": 23.348471561168477,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_44",
+      "weight": 94.01272459980406,
+      "distance": 67.1519461427172,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_58",
+      "weight": 103.61956492829265,
+      "distance": 74.01397494878046,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_44": [
+    {
+      "node": "n_43",
+      "weight": 94.01272459980406,
+      "distance": 67.1519461427172,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_45",
+      "weight": 28.452041729539886,
+      "distance": 20.322886949671354,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_56",
+      "weight": 103.63504683858889,
+      "distance": 74.0250334561349,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_45": [
+    {
+      "node": "n_44",
+      "weight": 28.452041729539886,
+      "distance": 20.322886949671354,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_46",
+      "weight": 33.198672760456034,
+      "distance": 23.713337686040028,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_192",
+      "weight": 9.993123548454081,
+      "distance": 6.662082365636055,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_46": [
+    {
+      "node": "n_45",
+      "weight": 33.198672760456034,
+      "distance": 23.713337686040028,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_47",
+      "weight": 10.68115234375,
+      "distance": 7.62939453125,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_47": [
+    {
+      "node": "n_46",
+      "weight": 10.68115234375,
+      "distance": 7.62939453125,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_48",
+      "weight": 60.6531706974,
+      "distance": 43.32369335528571,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_178",
+      "weight": 59.835906949666146,
+      "distance": 42.73993353547582,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_48": [
+    {
+      "node": "n_47",
+      "weight": 60.6531706974,
+      "distance": 43.32369335528571,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_49",
+      "weight": 16.635273268159125,
+      "distance": 11.88233804868509,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_49": [
+    {
+      "node": "n_48",
+      "weight": 16.635273268159125,
+      "distance": 11.88233804868509,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_36",
+      "weight": 22.858664232365243,
+      "distance": 16.32761730883232,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_50": [
+    {
+      "node": "n_37",
+      "weight": 40.60243062171554,
+      "distance": 29.001736158368242,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_51",
+      "weight": 199.8162497032826,
+      "distance": 142.7258926452019,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_205",
+      "weight": 96.99542942010595,
+      "distance": 64.66361961340397,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_51": [
+    {
+      "node": "n_50",
+      "weight": 199.8162497032826,
+      "distance": 142.7258926452019,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_52",
+      "weight": 62.09783506850612,
+      "distance": 44.35559647750438,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_54",
+      "weight": 68.66120224311285,
+      "distance": 49.04371588793775,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_52": [
+    {
+      "node": "n_51",
+      "weight": 62.09783506850612,
+      "distance": 44.35559647750438,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_53",
+      "weight": 119.63963460499856,
+      "distance": 85.45688186071328,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_303",
+      "weight": 22.189113902861873,
+      "distance": 15.849367073472768,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_53": [
+    {
+      "node": "n_52",
+      "weight": 119.63963460499856,
+      "distance": 85.45688186071328,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_308",
+      "weight": 22.189113902861873,
+      "distance": 15.849367073472768,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_54": [
+    {
+      "node": "n_51",
+      "weight": 68.66120224311285,
+      "distance": 49.04371588793775,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_55",
+      "weight": 164.84395816414693,
+      "distance": 117.74568440296208,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_204",
+      "weight": 67.29602796827159,
+      "distance": 48.06859140590828,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_207",
+      "weight": 113.24036616807861,
+      "distance": 80.88597583434186,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_55": [
+    {
+      "node": "n_54",
+      "weight": 164.84395816414693,
+      "distance": 117.74568440296208,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_60",
+      "weight": 140.0056260718205,
+      "distance": 100.00401862272895,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_286",
+      "weight": 69.98040039909297,
+      "distance": 49.98600028506641,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_56": [
+    {
+      "node": "n_44",
+      "weight": 103.63504683858889,
+      "distance": 74.0250334561349,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_57",
+      "weight": 101.48359521040597,
+      "distance": 72.48828229314712,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_77",
+      "weight": 56.87681961738992,
+      "distance": 37.91787974492661,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_80",
+      "weight": 92.41666077966423,
+      "distance": 66.01190055690303,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_57": [
+    {
+      "node": "n_56",
+      "weight": 101.48359521040597,
+      "distance": 72.48828229314712,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_72",
+      "weight": 62.74713191831963,
+      "distance": 41.83142127887975,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_181",
+      "weight": 68.12584744769,
+      "distance": 48.66131960549288,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_81",
+      "weight": 92.1311307291411,
+      "distance": 65.80795052081508,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "b_10",
+      "weight": 69.7683567641542,
+      "distance": 46.51223784276947,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_58": [
+    {
+      "node": "n_43",
+      "weight": 103.61956492829265,
+      "distance": 74.01397494878046,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_59",
+      "weight": 11.71279795808633,
+      "distance": 8.366284255775952,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_59": [
+    {
+      "node": "n_58",
+      "weight": 11.71279795808633,
+      "distance": 8.366284255775952,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_60",
+      "weight": 84.1411970703748,
+      "distance": 60.10085505026772,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_60": [
+    {
+      "node": "n_59",
+      "weight": 84.1411970703748,
+      "distance": 60.10085505026772,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_213",
+      "weight": 32.04790720237502,
+      "distance": 22.891362287410733,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_55",
+      "weight": 140.0056260718205,
+      "distance": 100.00401862272895,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_61": [
+    {
+      "node": "n_62",
+      "weight": 4.6132608880797665,
+      "distance": 3.0755072587198446,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_79",
+      "weight": 4.291534423828125,
+      "distance": 2.86102294921875,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_62": [
+    {
+      "node": "n_61",
+      "weight": 4.6132608880797665,
+      "distance": 3.0755072587198446,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_63",
+      "weight": 4.657407931165611,
+      "distance": 3.104938620777074,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_63": [
+    {
+      "node": "n_62",
+      "weight": 4.657407931165611,
+      "distance": 3.104938620777074,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_64",
+      "weight": 5.117953439712043,
+      "distance": 3.411968959808029,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_80",
+      "weight": 54.42339497430133,
+      "distance": 36.28226331620088,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_64": [
+    {
+      "node": "n_63",
+      "weight": 5.117953439712043,
+      "distance": 3.411968959808029,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_65",
+      "weight": 4.657407931165611,
+      "distance": 3.104938620777074,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_65": [
+    {
+      "node": "n_64",
+      "weight": 4.657407931165611,
+      "distance": 3.104938620777074,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_66",
+      "weight": 5.750584957764181,
+      "distance": 3.8337233051761204,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_66": [
+    {
+      "node": "n_65",
+      "weight": 5.750584957764181,
+      "distance": 3.8337233051761204,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_67",
+      "weight": 5.117953439712043,
+      "distance": 3.411968959808029,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_67": [
+    {
+      "node": "n_66",
+      "weight": 5.117953439712043,
+      "distance": 3.411968959808029,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_68",
+      "weight": 4.657407931165611,
+      "distance": 3.104938620777074,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_68": [
+    {
+      "node": "n_67",
+      "weight": 4.657407931165611,
+      "distance": 3.104938620777074,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_69",
+      "weight": 4.863739013671875,
+      "distance": 3.24249267578125,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_81",
+      "weight": 58.353647387612746,
+      "distance": 38.90243159174182,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_69": [
+    {
+      "node": "n_68",
+      "weight": 4.863739013671875,
+      "distance": 3.24249267578125,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_70",
+      "weight": 4.291534423828125,
+      "distance": 2.86102294921875,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_70": [
+    {
+      "node": "n_69",
+      "weight": 4.291534423828125,
+      "distance": 2.86102294921875,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_71",
+      "weight": 4.718519926778023,
+      "distance": 3.145679951185349,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_71": [
+    {
+      "node": "n_70",
+      "weight": 4.718519926778023,
+      "distance": 3.145679951185349,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_72",
+      "weight": 4.367161995641827,
+      "distance": 2.9114413304278846,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_72": [
+    {
+      "node": "n_71",
+      "weight": 4.367161995641827,
+      "distance": 2.9114413304278846,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_73",
+      "weight": 5.252139973836655,
+      "distance": 3.5014266492244377,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_57",
+      "weight": 62.74713191831963,
+      "distance": 41.83142127887975,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_73": [
+    {
+      "node": "n_72",
+      "weight": 5.252139973836655,
+      "distance": 3.5014266492244377,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_74",
+      "weight": 5.898149908472529,
+      "distance": 3.932099938981686,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_74": [
+    {
+      "node": "n_73",
+      "weight": 5.898149908472529,
+      "distance": 3.932099938981686,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_75",
+      "weight": 4.57763671875,
+      "distance": 3.0517578125,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_75": [
+    {
+      "node": "n_74",
+      "weight": 4.57763671875,
+      "distance": 3.0517578125,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_76",
+      "weight": 4.888918158712881,
+      "distance": 3.259278772475254,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_76": [
+    {
+      "node": "n_75",
+      "weight": 4.888918158712881,
+      "distance": 3.259278772475254,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_77",
+      "weight": 5.252139973836655,
+      "distance": 3.5014266492244377,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_77": [
+    {
+      "node": "n_76",
+      "weight": 5.252139973836655,
+      "distance": 3.5014266492244377,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_78",
+      "weight": 4.367161995641827,
+      "distance": 2.9114413304278846,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_56",
+      "weight": 56.87681961738992,
+      "distance": 37.91787974492661,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_78": [
+    {
+      "node": "n_77",
+      "weight": 4.367161995641827,
+      "distance": 2.9114413304278846,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_79",
+      "weight": 4.441502007368094,
+      "distance": 2.9610013382453966,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_79": [
+    {
+      "node": "n_78",
+      "weight": 4.441502007368094,
+      "distance": 2.9610013382453966,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_61",
+      "weight": 4.291534423828125,
+      "distance": 2.86102294921875,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_80": [
+    {
+      "node": "n_63",
+      "weight": 54.42339497430133,
+      "distance": 36.28226331620088,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_81",
+      "weight": 98.28437768785768,
+      "distance": 70.20312691989835,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_209",
+      "weight": 30.97994539975349,
+      "distance": 22.128532428395353,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_56",
+      "weight": 92.41666077966423,
+      "distance": 66.01190055690303,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "b_2",
+      "weight": 44.73450455424786,
+      "distance": 29.823003036165243,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_81": [
+    {
+      "node": "n_68",
+      "weight": 58.353647387612746,
+      "distance": 38.90243159174182,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_57",
+      "weight": 92.1311307291411,
+      "distance": 65.80795052081508,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_208",
+      "weight": 66.76574652350749,
+      "distance": 47.68981894536249,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_80",
+      "weight": 98.28437768785768,
+      "distance": 70.20312691989835,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "b_11",
+      "weight": 73.7495156114272,
+      "distance": 49.16634374095147,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "b_12",
+      "weight": 70.04020126400236,
+      "distance": 46.69346750933491,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_82": [
+    {
+      "node": "n_83",
+      "weight": 564.8658944824758,
+      "distance": 225.94635779299034,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_83": [
+    {
+      "node": "n_82",
+      "weight": 564.8658944824758,
+      "distance": 225.94635779299034,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_84",
+      "weight": 417.9226752982819,
+      "distance": 167.16907011931272,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_84": [
+    {
+      "node": "n_83",
+      "weight": 417.9226752982819,
+      "distance": 167.16907011931272,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_85",
+      "weight": 80.1597159926714,
+      "distance": 32.06388639706856,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_85": [
+    {
+      "node": "n_84",
+      "weight": 80.1597159926714,
+      "distance": 32.06388639706856,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_86",
+      "weight": 234.68576335951963,
+      "distance": 93.87430534380783,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_86": [
+    {
+      "node": "n_85",
+      "weight": 234.68576335951963,
+      "distance": 93.87430534380783,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_87",
+      "weight": 34.34551831315824,
+      "distance": 13.738207325263296,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_87": [
+    {
+      "node": "n_86",
+      "weight": 34.34551831315824,
+      "distance": 13.738207325263296,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_88",
+      "weight": 223.24586903552856,
+      "distance": 89.29834761421142,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_88": [
+    {
+      "node": "n_87",
+      "weight": 223.24586903552856,
+      "distance": 89.29834761421142,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_89",
+      "weight": 158.32788871181504,
+      "distance": 63.33115548472602,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_89": [
+    {
+      "node": "n_88",
+      "weight": 158.32788871181504,
+      "distance": 63.33115548472602,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_90",
+      "weight": 137.44825915677237,
+      "distance": 54.97930366270896,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_90": [
+    {
+      "node": "n_89",
+      "weight": 137.44825915677237,
+      "distance": 54.97930366270896,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_91",
+      "weight": 131.66232952440123,
+      "distance": 52.66493180976049,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_91": [
+    {
+      "node": "n_90",
+      "weight": 131.66232952440123,
+      "distance": 52.66493180976049,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_92",
+      "weight": 32.43894834841719,
+      "distance": 12.975579339366874,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_92": [
+    {
+      "node": "n_91",
+      "weight": 32.43894834841719,
+      "distance": 12.975579339366874,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_93",
+      "weight": 207.93599525403243,
+      "distance": 83.17439810161298,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_93": [
+    {
+      "node": "n_92",
+      "weight": 207.93599525403243,
+      "distance": 83.17439810161298,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_94",
+      "weight": 373.90874946998764,
+      "distance": 149.56349978799506,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_94": [
+    {
+      "node": "n_93",
+      "weight": 373.90874946998764,
+      "distance": 149.56349978799506,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_95",
+      "weight": 188.86604301338622,
+      "distance": 75.54641720535447,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_95": [
+    {
+      "node": "n_94",
+      "weight": 188.86604301338622,
+      "distance": 75.54641720535447,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_96",
+      "weight": 62.949729273640635,
+      "distance": 25.179891709456253,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_96": [
+    {
+      "node": "n_95",
+      "weight": 62.949729273640635,
+      "distance": 25.179891709456253,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_97",
+      "weight": 83.94501146188884,
+      "distance": 33.57800458475553,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_97": [
+    {
+      "node": "n_96",
+      "weight": 83.94501146188884,
+      "distance": 33.57800458475553,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_98",
+      "weight": 105.01249096653578,
+      "distance": 42.00499638661431,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_98": [
+    {
+      "node": "n_97",
+      "weight": 105.01249096653578,
+      "distance": 42.00499638661431,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_99",
+      "weight": 183.1557532644501,
+      "distance": 73.26230130578004,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_99": [
+    {
+      "node": "n_98",
+      "weight": 183.1557532644501,
+      "distance": 73.26230130578004,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_100",
+      "weight": 221.29405797702066,
+      "distance": 88.51762319080827,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_100": [
+    {
+      "node": "n_99",
+      "weight": 221.29405797702066,
+      "distance": 88.51762319080827,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_101",
+      "weight": 26.719905330890462,
+      "distance": 10.687962132356185,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_101": [
+    {
+      "node": "n_100",
+      "weight": 26.719905330890462,
+      "distance": 10.687962132356185,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_102",
+      "weight": 476.94228920709315,
+      "distance": 190.77691568283726,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_102": [
+    {
+      "node": "n_101",
+      "weight": 476.94228920709315,
+      "distance": 190.77691568283726,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_103",
+      "weight": 179.33134877842957,
+      "distance": 71.73253951137183,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_103": [
+    {
+      "node": "n_102",
+      "weight": 179.33134877842957,
+      "distance": 71.73253951137183,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_104",
+      "weight": 310.95961968842454,
+      "distance": 124.38384787536981,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_104": [
+    {
+      "node": "n_103",
+      "weight": 310.95961968842454,
+      "distance": 124.38384787536981,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_105",
+      "weight": 352.9419673737134,
+      "distance": 141.17678694948535,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_105": [
+    {
+      "node": "n_104",
+      "weight": 352.9419673737134,
+      "distance": 141.17678694948535,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_106",
+      "weight": 333.86263649015655,
+      "distance": 133.5450545960626,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_106": [
+    {
+      "node": "n_105",
+      "weight": 333.86263649015655,
+      "distance": 133.5450545960626,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_107",
+      "weight": 129.73125859370992,
+      "distance": 51.892503437483974,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_107": [
+    {
+      "node": "n_106",
+      "weight": 129.73125859370992,
+      "distance": 51.892503437483974,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_108",
+      "weight": 9.5367431640625,
+      "distance": 3.814697265625,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_108": [
+    {
+      "node": "n_107",
+      "weight": 9.5367431640625,
+      "distance": 3.814697265625,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_109",
+      "weight": 15.266237824995157,
+      "distance": 6.106495129998063,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_109": [
+    {
+      "node": "n_108",
+      "weight": 15.266237824995157,
+      "distance": 6.106495129998063,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_110",
+      "weight": 125.91751719283326,
+      "distance": 50.367006877133306,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_128",
+      "weight": 700.4689852015774,
+      "distance": 318.39499327344424,
+      "road_type": "secondary",
+      "weight_factor": 2.2
+    }
+  ],
+  "n_110": [
+    {
+      "node": "n_109",
+      "weight": 125.91751719283326,
+      "distance": 50.367006877133306,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_111",
+      "weight": 186.96942458867363,
+      "distance": 74.78776983546945,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_111": [
+    {
+      "node": "n_110",
+      "weight": 186.96942458867363,
+      "distance": 74.78776983546945,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_112",
+      "weight": 475.0456534664935,
+      "distance": 190.0182613865974,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_112": [
+    {
+      "node": "n_111",
+      "weight": 475.0456534664935,
+      "distance": 190.0182613865974,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_7",
+      "weight": 627.5975906974825,
+      "distance": 251.03903627899297,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_113": [
+    {
+      "node": "n_7",
+      "weight": 463.6269813298336,
+      "distance": 185.45079253193342,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_114",
+      "weight": 223.22142393822128,
+      "distance": 89.28856957528849,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_114": [
+    {
+      "node": "n_113",
+      "weight": 223.22142393822128,
+      "distance": 89.28856957528849,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_115",
+      "weight": 97.3039938498499,
+      "distance": 38.92159753993996,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_161",
+      "weight": 50.21301312399008,
+      "distance": 20.085205249596033,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_162",
+      "weight": 128.32590714261903,
+      "distance": 51.33036285704762,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_115": [
+    {
+      "node": "n_114",
+      "weight": 97.3039938498499,
+      "distance": 38.92159753993996,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_116",
+      "weight": 251.84631997691747,
+      "distance": 100.73852799076698,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_116": [
+    {
+      "node": "n_115",
+      "weight": 251.84631997691747,
+      "distance": 100.73852799076698,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_117",
+      "weight": 143.10200105211408,
+      "distance": 57.24080042084562,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_117": [
+    {
+      "node": "n_116",
+      "weight": 143.10200105211408,
+      "distance": 57.24080042084562,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_118",
+      "weight": 282.345585408734,
+      "distance": 112.9382341634936,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_118": [
+    {
+      "node": "n_117",
+      "weight": 282.345585408734,
+      "distance": 112.9382341634936,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_119",
+      "weight": 272.87128764020144,
+      "distance": 109.14851505608057,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_119": [
+    {
+      "node": "n_118",
+      "weight": 272.87128764020144,
+      "distance": 109.14851505608057,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_120",
+      "weight": 362.5480434300058,
+      "distance": 145.01921737200232,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_120": [
+    {
+      "node": "n_119",
+      "weight": 362.5480434300058,
+      "distance": 145.01921737200232,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_121",
+      "weight": 38.15889172314178,
+      "distance": 15.26355668925671,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_121": [
+    {
+      "node": "n_120",
+      "weight": 38.15889172314178,
+      "distance": 15.26355668925671,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_122": [
+    {
+      "node": "n_123",
+      "weight": 294.7445165034765,
+      "distance": 133.97478022885295,
+      "road_type": "secondary",
+      "weight_factor": 2.2
+    }
+  ],
+  "n_123": [
+    {
+      "node": "n_122",
+      "weight": 294.7445165034765,
+      "distance": 133.97478022885295,
+      "road_type": "secondary",
+      "weight_factor": 2.2
+    },
+    {
+      "node": "n_124",
+      "weight": 75.71843522013197,
+      "distance": 34.417470554605444,
+      "road_type": "secondary",
+      "weight_factor": 2.2
+    }
+  ],
+  "n_124": [
+    {
+      "node": "n_123",
+      "weight": 75.71843522013197,
+      "distance": 34.417470554605444,
+      "road_type": "secondary",
+      "weight_factor": 2.2
+    },
+    {
+      "node": "n_125",
+      "weight": 119.29592798929178,
+      "distance": 54.22542181331444,
+      "road_type": "secondary",
+      "weight_factor": 2.2
+    }
+  ],
+  "n_125": [
+    {
+      "node": "n_124",
+      "weight": 119.29592798929178,
+      "distance": 54.22542181331444,
+      "road_type": "secondary",
+      "weight_factor": 2.2
+    },
+    {
+      "node": "n_1",
+      "weight": 160.80027280514204,
+      "distance": 73.0910330932464,
+      "road_type": "secondary",
+      "weight_factor": 2.2
+    }
+  ],
+  "n_126": [
+    {
+      "node": "n_1",
+      "weight": 140.96373335704132,
+      "distance": 64.07442425320059,
+      "road_type": "secondary",
+      "weight_factor": 2.2
+    },
+    {
+      "node": "n_127",
+      "weight": 452.7950012688129,
+      "distance": 205.81590966764222,
+      "road_type": "secondary",
+      "weight_factor": 2.2
+    }
+  ],
+  "n_127": [
+    {
+      "node": "n_126",
+      "weight": 452.7950012688129,
+      "distance": 205.81590966764222,
+      "road_type": "secondary",
+      "weight_factor": 2.2
+    },
+    {
+      "node": "n_33",
+      "weight": 102.4002316097205,
+      "distance": 46.545559822600225,
+      "road_type": "secondary",
+      "weight_factor": 2.2
+    }
+  ],
+  "n_128": [
+    {
+      "node": "n_33",
+      "weight": 146.90420467229526,
+      "distance": 66.77463848740693,
+      "road_type": "secondary",
+      "weight_factor": 2.2
+    },
+    {
+      "node": "n_109",
+      "weight": 700.4689852015774,
+      "distance": 318.39499327344424,
+      "road_type": "secondary",
+      "weight_factor": 2.2
+    }
+  ],
+  "n_129": [
+    {
+      "node": "n_130",
+      "weight": 27.826092111445497,
+      "distance": 15.458940061914163,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_130": [
+    {
+      "node": "n_129",
+      "weight": 27.826092111445497,
+      "distance": 15.458940061914163,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_131",
+      "weight": 197.71605367783962,
+      "distance": 109.84225204324424,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_131": [
+    {
+      "node": "n_130",
+      "weight": 197.71605367783962,
+      "distance": 109.84225204324424,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_132",
+      "weight": 153.0711342014587,
+      "distance": 85.03951900081037,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_132": [
+    {
+      "node": "n_131",
+      "weight": 153.0711342014587,
+      "distance": 85.03951900081037,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_133",
+      "weight": 374.15958902330743,
+      "distance": 207.86643834628194,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_133": [
+    {
+      "node": "n_132",
+      "weight": 374.15958902330743,
+      "distance": 207.86643834628194,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_134",
+      "weight": 102.84336101033307,
+      "distance": 57.135200561296145,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_134": [
+    {
+      "node": "n_133",
+      "weight": 102.84336101033307,
+      "distance": 57.135200561296145,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_135",
+      "weight": 18.062823172255424,
+      "distance": 10.034901762364123,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_135": [
+    {
+      "node": "n_134",
+      "weight": 18.062823172255424,
+      "distance": 10.034901762364123,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_136",
+      "weight": 52.83156022797915,
+      "distance": 29.35086679332175,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_136": [
+    {
+      "node": "n_135",
+      "weight": 52.83156022797915,
+      "distance": 29.35086679332175,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_137",
+      "weight": 82.0139064080276,
+      "distance": 45.56328133779311,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_137": [
+    {
+      "node": "n_136",
+      "weight": 82.0139064080276,
+      "distance": 45.56328133779311,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_138",
+      "weight": 70.74198460102211,
+      "distance": 39.301102556123396,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    }
+  ],
+  "n_138": [
+    {
+      "node": "n_137",
+      "weight": 70.74198460102211,
+      "distance": 39.301102556123396,
+      "road_type": "tertiary",
+      "weight_factor": 1.8
+    },
+    {
+      "node": "n_162",
+      "weight": 1131.700844330263,
+      "distance": 452.6803377321053,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_163",
+      "weight": 22.492363767758853,
+      "distance": 8.996945507103542,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_195",
+      "weight": 20.322278310101794,
+      "distance": 14.51591307864414,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_139": [
+    {
+      "node": "n_140",
+      "weight": 34.809112548828125,
+      "distance": 13.92364501953125,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_140": [
+    {
+      "node": "n_139",
+      "weight": 34.809112548828125,
+      "distance": 13.92364501953125,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_141",
+      "weight": 190.41093499363808,
+      "distance": 76.16437399745523,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_141": [
+    {
+      "node": "n_140",
+      "weight": 190.41093499363808,
+      "distance": 76.16437399745523,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_142",
+      "weight": 261.64763555563013,
+      "distance": 104.65905422225205,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_142": [
+    {
+      "node": "n_141",
+      "weight": 261.64763555563013,
+      "distance": 104.65905422225205,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_143",
+      "weight": 351.7600923363518,
+      "distance": 140.70403693454074,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_143": [
+    {
+      "node": "n_142",
+      "weight": 351.7600923363518,
+      "distance": 140.70403693454074,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_144",
+      "weight": 137.50201174575983,
+      "distance": 55.00080469830394,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_144": [
+    {
+      "node": "n_143",
+      "weight": 137.50201174575983,
+      "distance": 55.00080469830394,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_145",
+      "weight": 706.5666430649442,
+      "distance": 282.6266572259776,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_145": [
+    {
+      "node": "n_144",
+      "weight": 706.5666430649442,
+      "distance": 282.6266572259776,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_146",
+      "weight": 410.9484325362544,
+      "distance": 164.37937301450177,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_146": [
+    {
+      "node": "n_145",
+      "weight": 410.9484325362544,
+      "distance": 164.37937301450177,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_147",
+      "weight": 28.197974094338456,
+      "distance": 11.279189637735382,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_147": [
+    {
+      "node": "n_146",
+      "weight": 28.197974094338456,
+      "distance": 11.279189637735382,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_148",
+      "weight": 553.7689165515382,
+      "distance": 221.50756662061522,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_148": [
+    {
+      "node": "n_147",
+      "weight": 553.7689165515382,
+      "distance": 221.50756662061522,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_149",
+      "weight": 73.45768894825636,
+      "distance": 29.38307557930254,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_149": [
+    {
+      "node": "n_148",
+      "weight": 73.45768894825636,
+      "distance": 29.38307557930254,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_150",
+      "weight": 59.15856330593422,
+      "distance": 23.66342532237369,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_150": [
+    {
+      "node": "n_149",
+      "weight": 59.15856330593422,
+      "distance": 23.66342532237369,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_151",
+      "weight": 111.11942874648301,
+      "distance": 44.447771498593205,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_151": [
+    {
+      "node": "n_150",
+      "weight": 111.11942874648301,
+      "distance": 44.447771498593205,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_152",
+      "weight": 153.1122555727478,
+      "distance": 61.244902229099125,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_152": [
+    {
+      "node": "n_151",
+      "weight": 153.1122555727478,
+      "distance": 61.244902229099125,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_153",
+      "weight": 194.58695594569167,
+      "distance": 77.83478237827667,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_153": [
+    {
+      "node": "n_152",
+      "weight": 194.58695594569167,
+      "distance": 77.83478237827667,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_154",
+      "weight": 28.673737293954673,
+      "distance": 11.469494917581871,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_154": [
+    {
+      "node": "n_153",
+      "weight": 28.673737293954673,
+      "distance": 11.469494917581871,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_155",
+      "weight": 65.35452924779669,
+      "distance": 26.14181169911868,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_155": [
+    {
+      "node": "n_154",
+      "weight": 65.35452924779669,
+      "distance": 26.14181169911868,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_156",
+      "weight": 486.5085191116327,
+      "distance": 194.60340764465312,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_156": [
+    {
+      "node": "n_155",
+      "weight": 486.5085191116327,
+      "distance": 194.60340764465312,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_157",
+      "weight": 82.9915861791205,
+      "distance": 33.1966344716482,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_157": [
+    {
+      "node": "n_156",
+      "weight": 82.9915861791205,
+      "distance": 33.1966344716482,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_158",
+      "weight": 137.9246843605524,
+      "distance": 55.169873744220965,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_158": [
+    {
+      "node": "n_157",
+      "weight": 137.9246843605524,
+      "distance": 55.169873744220965,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_159",
+      "weight": 375.0317428640867,
+      "distance": 150.01269714563472,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_159": [
+    {
+      "node": "n_158",
+      "weight": 375.0317428640867,
+      "distance": 150.01269714563472,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_160",
+      "weight": 138.87754325113963,
+      "distance": 55.551017300455854,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_160": [
+    {
+      "node": "n_159",
+      "weight": 138.87754325113963,
+      "distance": 55.551017300455854,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_161",
+      "weight": 328.1526667420436,
+      "distance": 131.26106669681744,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_161": [
+    {
+      "node": "n_160",
+      "weight": 328.1526667420436,
+      "distance": 131.26106669681744,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_114",
+      "weight": 50.21301312399008,
+      "distance": 20.085205249596033,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_162": [
+    {
+      "node": "n_114",
+      "weight": 128.32590714261903,
+      "distance": 51.33036285704762,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_138",
+      "weight": 1131.700844330263,
+      "distance": 452.6803377321053,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "b_7",
+      "weight": 81.84975777453931,
+      "distance": 54.56650518302622,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_163": [
+    {
+      "node": "n_138",
+      "weight": 22.492363767758853,
+      "distance": 8.996945507103542,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_164",
+      "weight": 79.17794503092887,
+      "distance": 31.671178012371545,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_164": [
+    {
+      "node": "n_163",
+      "weight": 79.17794503092887,
+      "distance": 31.671178012371545,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_165",
+      "weight": 44.86325640235548,
+      "distance": 17.945302560942192,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_165": [
+    {
+      "node": "n_164",
+      "weight": 44.86325640235548,
+      "distance": 17.945302560942192,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_166",
+      "weight": 91.15575115741692,
+      "distance": 36.462300462966766,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_166": [
+    {
+      "node": "n_165",
+      "weight": 91.15575115741692,
+      "distance": 36.462300462966766,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_6",
+      "weight": 217.09500873937333,
+      "distance": 86.83800349574935,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_167": [
+    {
+      "node": "n_6",
+      "weight": 141.01808981214103,
+      "distance": 56.407235924856415,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_168",
+      "weight": 215.66538676539534,
+      "distance": 86.26615470615812,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_168": [
+    {
+      "node": "n_167",
+      "weight": 215.66538676539534,
+      "distance": 86.26615470615812,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_169",
+      "weight": 23.674376654255695,
+      "distance": 9.469750661702278,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_169": [
+    {
+      "node": "n_168",
+      "weight": 23.674376654255695,
+      "distance": 9.469750661702278,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_170",
+      "weight": 23.203897591774822,
+      "distance": 9.281559036709929,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_170": [
+    {
+      "node": "n_169",
+      "weight": 23.203897591774822,
+      "distance": 9.281559036709929,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_171",
+      "weight": 146.02432428560078,
+      "distance": 58.409729714240314,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_171": [
+    {
+      "node": "n_170",
+      "weight": 146.02432428560078,
+      "distance": 58.409729714240314,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_172",
+      "weight": 86.3285987376305,
+      "distance": 34.5314394950522,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_172": [
+    {
+      "node": "n_171",
+      "weight": 86.3285987376305,
+      "distance": 34.5314394950522,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_173",
+      "weight": 77.72445678710938,
+      "distance": 31.08978271484375,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_173": [
+    {
+      "node": "n_172",
+      "weight": 77.72445678710938,
+      "distance": 31.08978271484375,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_174",
+      "weight": 33.12216756212665,
+      "distance": 13.248867024850659,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_174": [
+    {
+      "node": "n_173",
+      "weight": 33.12216756212665,
+      "distance": 13.248867024850659,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_175",
+      "weight": 49.56354698252213,
+      "distance": 19.825418793008854,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_175": [
+    {
+      "node": "n_174",
+      "weight": 49.56354698252213,
+      "distance": 19.825418793008854,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_176",
+      "weight": 40.099708636529236,
+      "distance": 16.039883454611694,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_176": [
+    {
+      "node": "n_175",
+      "weight": 40.099708636529236,
+      "distance": 16.039883454611694,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_177",
+      "weight": 31.140788778792754,
+      "distance": 12.456315511517102,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_177": [
+    {
+      "node": "n_176",
+      "weight": 31.140788778792754,
+      "distance": 12.456315511517102,
+      "road_type": "primary",
+      "weight_factor": 2.5
+    }
+  ],
+  "n_178": [
+    {
+      "node": "n_47",
+      "weight": 59.835906949666146,
+      "distance": 42.73993353547582,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_179",
+      "weight": 86.55853232481351,
+      "distance": 61.82752308915252,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_194",
+      "weight": 21.983382467993025,
+      "distance": 14.655588311995352,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_179": [
+    {
+      "node": "n_178",
+      "weight": 86.55853232481351,
+      "distance": 61.82752308915252,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_180",
+      "weight": 45.94835714347031,
+      "distance": 32.8202551024788,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_295",
+      "weight": 22.189113902861873,
+      "distance": 15.849367073472768,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "b_5",
+      "weight": 33.150005920423105,
+      "distance": 22.100003946948732,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_180": [
+    {
+      "node": "n_179",
+      "weight": 45.94835714347031,
+      "distance": 32.8202551024788,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_181",
+      "weight": 40.61033257500847,
+      "distance": 29.007380410720344,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_296",
+      "weight": 27.054380571619262,
+      "distance": 19.32455755115662,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_181": [
+    {
+      "node": "n_180",
+      "weight": 40.61033257500847,
+      "distance": 29.007380410720344,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_199",
+      "weight": 149.9896325391086,
+      "distance": 107.13545181364901,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_57",
+      "weight": 68.12584744769,
+      "distance": 48.66131960549288,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "b_8",
+      "weight": 70.64265891968965,
+      "distance": 47.09510594645976,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "b_9",
+      "weight": 69.22498004373723,
+      "distance": 46.14998669582482,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_182": [
+    {
+      "node": "n_3",
+      "weight": 12.329677530564327,
+      "distance": 8.806912521831661,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_183",
+      "weight": 39.53469502662727,
+      "distance": 28.23906787616233,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_183": [
+    {
+      "node": "n_182",
+      "weight": 39.53469502662727,
+      "distance": 28.23906787616233,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_184",
+      "weight": 74.7985777588386,
+      "distance": 53.42755554202758,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_184": [
+    {
+      "node": "n_183",
+      "weight": 74.7985777588386,
+      "distance": 53.42755554202758,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_185",
+      "weight": 33.39568654520731,
+      "distance": 23.854061818005228,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_230",
+      "weight": 112.214389033566,
+      "distance": 80.15313502397572,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_185": [
+    {
+      "node": "n_184",
+      "weight": 33.39568654520731,
+      "distance": 23.854061818005228,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_186",
+      "weight": 98.85260788530519,
+      "distance": 70.60900563236086,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_186": [
+    {
+      "node": "n_185",
+      "weight": 98.85260788530519,
+      "distance": 70.60900563236086,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_187",
+      "weight": 176.08864467155007,
+      "distance": 125.7776033368215,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_187": [
+    {
+      "node": "n_186",
+      "weight": 176.08864467155007,
+      "distance": 125.7776033368215,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_188",
+      "weight": 39.000835025579335,
+      "distance": 27.85773930398524,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_188": [
+    {
+      "node": "n_187",
+      "weight": 39.000835025579335,
+      "distance": 27.85773930398524,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_189",
+      "weight": 92.18064987111623,
+      "distance": 65.84332133651161,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_297",
+      "weight": 92.9264090519143,
+      "distance": 66.37600646565308,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_189": [
+    {
+      "node": "n_188",
+      "weight": 92.18064987111623,
+      "distance": 65.84332133651161,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_190",
+      "weight": 216.9220816278713,
+      "distance": 154.94434401990813,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_287",
+      "weight": 13.888065394229264,
+      "distance": 9.92004671016376,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_190": [
+    {
+      "node": "n_189",
+      "weight": 216.9220816278713,
+      "distance": 154.94434401990813,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_191",
+      "weight": 87.11034732541088,
+      "distance": 62.22167666100778,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_204",
+      "weight": 105.42498918054015,
+      "distance": 75.30356370038584,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_191": [
+    {
+      "node": "n_190",
+      "weight": 87.11034732541088,
+      "distance": 62.22167666100778,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_202",
+      "weight": 8.0108642578125,
+      "distance": 5.7220458984375,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_192": [
+    {
+      "node": "n_45",
+      "weight": 9.993123548454081,
+      "distance": 6.662082365636055,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_193",
+      "weight": 17.65740294366013,
+      "distance": 11.771601962440087,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_193": [
+    {
+      "node": "n_192",
+      "weight": 17.65740294366013,
+      "distance": 11.771601962440087,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_194",
+      "weight": 17.01286554029675,
+      "distance": 11.341910360197836,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_194": [
+    {
+      "node": "n_193",
+      "weight": 17.01286554029675,
+      "distance": 11.341910360197836,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_178",
+      "weight": 21.983382467993025,
+      "distance": 14.655588311995352,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_195": [
+    {
+      "node": "n_138",
+      "weight": 20.322278310101794,
+      "distance": 14.51591307864414,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_196",
+      "weight": 130.40878901958263,
+      "distance": 93.1491350139876,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_196": [
+    {
+      "node": "n_195",
+      "weight": 130.40878901958263,
+      "distance": 93.1491350139876,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_197",
+      "weight": 68.3927454559783,
+      "distance": 48.8519610399845,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_197": [
+    {
+      "node": "n_196",
+      "weight": 68.3927454559783,
+      "distance": 48.8519610399845,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_198",
+      "weight": 105.80037249184586,
+      "distance": 75.57169463703276,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_299",
+      "weight": 13.127935771632838,
+      "distance": 9.377096979737743,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_198": [
+    {
+      "node": "n_197",
+      "weight": 105.80037249184586,
+      "distance": 75.57169463703276,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_224",
+      "weight": 112.1724428164368,
+      "distance": 80.12317344031202,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_229",
+      "weight": 12.820164060837495,
+      "distance": 9.157260043455356,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_199": [
+    {
+      "node": "n_181",
+      "weight": 149.9896325391086,
+      "distance": 107.13545181364901,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_200",
+      "weight": 150.6648381415754,
+      "distance": 107.61774152969672,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "b_0",
+      "weight": 54.974218672286135,
+      "distance": 36.64947911485742,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_200": [
+    {
+      "node": "n_199",
+      "weight": 150.6648381415754,
+      "distance": 107.61774152969672,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_201",
+      "weight": 42.95181420204883,
+      "distance": 30.67986728717774,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_201": [
+    {
+      "node": "n_200",
+      "weight": 42.95181420204883,
+      "distance": 30.67986728717774,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_35",
+      "weight": 59.835906949666146,
+      "distance": 42.73993353547582,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_202": [
+    {
+      "node": "n_191",
+      "weight": 8.0108642578125,
+      "distance": 5.7220458984375,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_203",
+      "weight": 18.6920166015625,
+      "distance": 13.3514404296875,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_203": [
+    {
+      "node": "n_202",
+      "weight": 18.6920166015625,
+      "distance": 13.3514404296875,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_204": [
+    {
+      "node": "n_54",
+      "weight": 67.29602796827159,
+      "distance": 48.06859140590828,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_190",
+      "weight": 105.42498918054015,
+      "distance": 75.30356370038584,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_205": [
+    {
+      "node": "n_41",
+      "weight": 36.14666711826294,
+      "distance": 25.81904794161639,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_206",
+      "weight": 32.4249267578125,
+      "distance": 12.969970703125,
+      "road_type": "steps",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_50",
+      "weight": 96.99542942010595,
+      "distance": 64.66361961340397,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_206": [
+    {
+      "node": "n_205",
+      "weight": 32.4249267578125,
+      "distance": 12.969970703125,
+      "road_type": "steps",
+      "weight_factor": 2.5
+    },
+    {
+      "node": "n_207",
+      "weight": 81.4923626229781,
+      "distance": 58.208830444984365,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_207": [
+    {
+      "node": "n_206",
+      "weight": 81.4923626229781,
+      "distance": 58.208830444984365,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_54",
+      "weight": 113.24036616807861,
+      "distance": 80.88597583434186,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_208": [
+    {
+      "node": "n_81",
+      "weight": 66.76574652350749,
+      "distance": 47.68981894536249,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_214",
+      "weight": 129.2816605504935,
+      "distance": 92.34404325035251,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_290",
+      "weight": 44.86083984375,
+      "distance": 32.04345703125,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "b_13",
+      "weight": 71.51364412332258,
+      "distance": 47.67576274888172,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_209": [
+    {
+      "node": "n_80",
+      "weight": 30.97994539975349,
+      "distance": 22.128532428395353,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_210",
+      "weight": 56.620183084039304,
+      "distance": 40.44298791717093,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_281",
+      "weight": 32.57751464843749,
+      "distance": 23.2696533203125,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_210": [
+    {
+      "node": "n_209",
+      "weight": 56.620183084039304,
+      "distance": 40.44298791717093,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_211",
+      "weight": 61.98750421132101,
+      "distance": 44.27678872237216,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_279",
+      "weight": 29.77663840772481,
+      "distance": 19.85109227181654,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_211": [
+    {
+      "node": "n_210",
+      "weight": 61.98750421132101,
+      "distance": 44.27678872237216,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_212",
+      "weight": 69.43211173301448,
+      "distance": 49.59436552358177,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_222",
+      "weight": 32.86190659494239,
+      "distance": 23.47279042495885,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "b_1",
+      "weight": 51.750332205127314,
+      "distance": 34.500221470084874,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_212": [
+    {
+      "node": "n_211",
+      "weight": 69.43211173301448,
+      "distance": 49.59436552358177,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_213",
+      "weight": 58.74876537509497,
+      "distance": 41.96340383935356,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_246",
+      "weight": 30.12780787439405,
+      "distance": 20.085205249596033,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_213": [
+    {
+      "node": "n_212",
+      "weight": 58.74876537509497,
+      "distance": 41.96340383935356,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_60",
+      "weight": 32.04790720237502,
+      "distance": 22.891362287410733,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_221",
+      "weight": 33.979874928189886,
+      "distance": 24.271339234421347,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_214": [
+    {
+      "node": "n_208",
+      "weight": 129.2816605504935,
+      "distance": 92.34404325035251,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_215",
+      "weight": 54.49023655591595,
+      "distance": 38.92159753993996,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_281",
+      "weight": 34.997077229399046,
+      "distance": 24.99791230671361,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_215": [
+    {
+      "node": "n_214",
+      "weight": 54.49023655591595,
+      "distance": 38.92159753993996,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_216",
+      "weight": 2.13623046875,
+      "distance": 1.52587890625,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_223",
+      "weight": 142.36242184443032,
+      "distance": 101.6874441745931,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_216": [
+    {
+      "node": "n_215",
+      "weight": 2.13623046875,
+      "distance": 1.52587890625,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_217",
+      "weight": 61.97139788304931,
+      "distance": 44.26528420217808,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_269",
+      "weight": 29.468536376953125,
+      "distance": 19.64569091796875,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_217": [
+    {
+      "node": "n_216",
+      "weight": 61.97139788304931,
+      "distance": 44.26528420217808,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_218",
+      "weight": 69.44597438362082,
+      "distance": 49.60426741687202,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_222",
+      "weight": 34.44671630859375,
+      "distance": 24.60479736328125,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_218": [
+    {
+      "node": "n_217",
+      "weight": 69.44597438362082,
+      "distance": 49.60426741687202,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_219",
+      "weight": 2.13623046875,
+      "distance": 1.52587890625,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_256",
+      "weight": 29.204864857120164,
+      "distance": 19.469909904746775,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_219": [
+    {
+      "node": "n_218",
+      "weight": 2.13623046875,
+      "distance": 1.52587890625,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_220",
+      "weight": 53.42244841239848,
+      "distance": 38.15889172314178,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_225",
+      "weight": 90.31260126802843,
+      "distance": 64.50900090573461,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_220": [
+    {
+      "node": "n_219",
+      "weight": 53.42244841239848,
+      "distance": 38.15889172314178,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_221",
+      "weight": 35.04594163469192,
+      "distance": 25.03281545335138,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_284",
+      "weight": 40.61033257500847,
+      "distance": 29.007380410720344,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_221": [
+    {
+      "node": "n_220",
+      "weight": 35.04594163469192,
+      "distance": 25.03281545335138,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_213",
+      "weight": 33.979874928189886,
+      "distance": 24.271339234421347,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_261",
+      "weight": 54.93834573831457,
+      "distance": 36.62556382554305,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_222": [
+    {
+      "node": "n_217",
+      "weight": 34.44671630859375,
+      "distance": 24.60479736328125,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_211",
+      "weight": 32.86190659494239,
+      "distance": 23.47279042495885,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_241",
+      "weight": 65.26205944928164,
+      "distance": 43.50803963285443,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_264",
+      "weight": 58.39921838041341,
+      "distance": 38.93281225360894,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_223": [
+    {
+      "node": "n_215",
+      "weight": 142.36242184443032,
+      "distance": 101.6874441745931,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_224",
+      "weight": 49.945809592954134,
+      "distance": 35.67557828068153,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_226",
+      "weight": 134.61456976835078,
+      "distance": 96.15326412025057,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_224": [
+    {
+      "node": "n_223",
+      "weight": 49.945809592954134,
+      "distance": 35.67557828068153,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_198",
+      "weight": 112.1724428164368,
+      "distance": 80.12317344031202,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_225": [
+    {
+      "node": "n_219",
+      "weight": 90.31260126802843,
+      "distance": 64.50900090573461,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_226",
+      "weight": 51.81459919438243,
+      "distance": 37.01042799598745,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_319",
+      "weight": 27.791529180543154,
+      "distance": 19.85109227181654,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_226": [
+    {
+      "node": "n_225",
+      "weight": 51.81459919438243,
+      "distance": 37.01042799598745,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_227",
+      "weight": 73.99782164392869,
+      "distance": 52.85558688852049,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_223",
+      "weight": 134.61456976835078,
+      "distance": 96.15326412025057,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_318",
+      "weight": 26.704215970041034,
+      "distance": 19.07443997860074,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_227": [
+    {
+      "node": "n_226",
+      "weight": 73.99782164392869,
+      "distance": 52.85558688852049,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_228",
+      "weight": 90.04574108851607,
+      "distance": 64.3183864917972,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "b_6",
+      "weight": 78.72768039007826,
+      "distance": 52.48512026005217,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_228": [
+    {
+      "node": "n_227",
+      "weight": 90.04574108851607,
+      "distance": 64.3183864917972,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_229",
+      "weight": 119.71500397914281,
+      "distance": 85.51071712795915,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_236",
+      "weight": 47.00920641865775,
+      "distance": 33.57800458475553,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_237",
+      "weight": 137.8530890244331,
+      "distance": 98.46649216030937,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_229": [
+    {
+      "node": "n_228",
+      "weight": 119.71500397914281,
+      "distance": 85.51071712795915,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_198",
+      "weight": 12.820164060837495,
+      "distance": 9.157260043455356,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_235",
+      "weight": 47.5311279296875,
+      "distance": 33.9508056640625,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_230": [
+    {
+      "node": "n_184",
+      "weight": 112.214389033566,
+      "distance": 80.15313502397572,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_231",
+      "weight": 83.3557703750232,
+      "distance": 59.539835982159445,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_231": [
+    {
+      "node": "n_230",
+      "weight": 83.3557703750232,
+      "distance": 59.539835982159445,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_232",
+      "weight": 216.8551788941849,
+      "distance": 154.89655635298922,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_282",
+      "weight": 17.389706586632464,
+      "distance": 12.421218990451763,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_232": [
+    {
+      "node": "n_231",
+      "weight": 216.8551788941849,
+      "distance": 154.89655635298922,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_233",
+      "weight": 23.25604775827347,
+      "distance": 16.61146268448105,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_233": [
+    {
+      "node": "n_232",
+      "weight": 23.25604775827347,
+      "distance": 16.61146268448105,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_234",
+      "weight": 64.62097167968749,
+      "distance": 46.1578369140625,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_234": [
+    {
+      "node": "n_233",
+      "weight": 64.62097167968749,
+      "distance": 46.1578369140625,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_235",
+      "weight": 80.18382041727864,
+      "distance": 57.27415744091332,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_236",
+      "weight": 38.45585699211512,
+      "distance": 27.468469280082232,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_235": [
+    {
+      "node": "n_234",
+      "weight": 80.18382041727864,
+      "distance": 57.27415744091332,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_229",
+      "weight": 47.5311279296875,
+      "distance": 33.9508056640625,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_236": [
+    {
+      "node": "n_234",
+      "weight": 38.45585699211512,
+      "distance": 27.468469280082232,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_228",
+      "weight": 47.00920641865775,
+      "distance": 33.57800458475553,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "b_15",
+      "weight": 80.27864741636093,
+      "distance": 53.519098277573946,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_237": [
+    {
+      "node": "n_228",
+      "weight": 137.8530890244331,
+      "distance": 98.46649216030937,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_238",
+      "weight": 41.66419618268779,
+      "distance": 29.760140130491276,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_309",
+      "weight": 88.9462499863352,
+      "distance": 63.53303570452516,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_238": [
+    {
+      "node": "n_237",
+      "weight": 41.66419618268779,
+      "distance": 29.760140130491276,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_239",
+      "weight": 66.27695911905379,
+      "distance": 47.340685085038416,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_283",
+      "weight": 60.6531706974,
+      "distance": 43.32369335528571,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_239": [
+    {
+      "node": "n_238",
+      "weight": 66.27695911905379,
+      "distance": 47.340685085038416,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_240",
+      "weight": 98.34820013189056,
+      "distance": 70.24871437992184,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_292",
+      "weight": 96.40331725664986,
+      "distance": 68.85951232617847,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_240": [
+    {
+      "node": "n_239",
+      "weight": 98.34820013189056,
+      "distance": 70.24871437992184,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_241": [
+    {
+      "node": "n_222",
+      "weight": 65.26205944928164,
+      "distance": 43.50803963285443,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_250",
+      "weight": 2.002716064453125,
+      "distance": 1.33514404296875,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_251",
+      "weight": 2.002716064453125,
+      "distance": 1.33514404296875,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_242": [
+    {
+      "node": "n_243",
+      "weight": 2.86102294921875,
+      "distance": 1.9073486328125,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_261",
+      "weight": 2.002716064453125,
+      "distance": 1.33514404296875,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_243": [
+    {
+      "node": "n_242",
+      "weight": 2.86102294921875,
+      "distance": 1.9073486328125,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_244",
+      "weight": 1.831948538999419,
+      "distance": 1.2212990259996126,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_244": [
+    {
+      "node": "n_243",
+      "weight": 1.831948538999419,
+      "distance": 1.2212990259996126,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_245",
+      "weight": 2.4444590793564407,
+      "distance": 1.629639386237627,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_245": [
+    {
+      "node": "n_244",
+      "weight": 2.4444590793564407,
+      "distance": 1.629639386237627,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_246",
+      "weight": 2.288818359375,
+      "distance": 1.52587890625,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_246": [
+    {
+      "node": "n_245",
+      "weight": 2.288818359375,
+      "distance": 1.52587890625,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_247",
+      "weight": 2.3066304440398833,
+      "distance": 1.5377536293599223,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_212",
+      "weight": 30.12780787439405,
+      "distance": 20.085205249596033,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_247": [
+    {
+      "node": "n_246",
+      "weight": 2.3066304440398833,
+      "distance": 1.5377536293599223,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_248",
+      "weight": 2.4444590793564407,
+      "distance": 1.629639386237627,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_248": [
+    {
+      "node": "n_247",
+      "weight": 2.4444590793564407,
+      "distance": 1.629639386237627,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_249",
+      "weight": 2.6990836521310624,
+      "distance": 1.7993891014207084,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_249": [
+    {
+      "node": "n_248",
+      "weight": 2.6990836521310624,
+      "distance": 1.7993891014207084,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_250",
+      "weight": 2.0631129887374815,
+      "distance": 1.3754086591583212,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_250": [
+    {
+      "node": "n_249",
+      "weight": 2.0631129887374815,
+      "distance": 1.3754086591583212,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_241",
+      "weight": 2.002716064453125,
+      "distance": 1.33514404296875,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_251": [
+    {
+      "node": "n_241",
+      "weight": 2.002716064453125,
+      "distance": 1.33514404296875,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_252",
+      "weight": 2.5589767198560214,
+      "distance": 1.7059844799040145,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_252": [
+    {
+      "node": "n_251",
+      "weight": 2.5589767198560214,
+      "distance": 1.7059844799040145,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_253",
+      "weight": 1.831948538999419,
+      "distance": 1.2212990259996126,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_253": [
+    {
+      "node": "n_252",
+      "weight": 1.831948538999419,
+      "distance": 1.2212990259996126,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_254",
+      "weight": 2.6990836521310624,
+      "distance": 1.7993891014207084,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_254": [
+    {
+      "node": "n_253",
+      "weight": 2.6990836521310624,
+      "distance": 1.7993891014207084,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_255",
+      "weight": 2.3592599633890114,
+      "distance": 1.5728399755926745,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_255": [
+    {
+      "node": "n_254",
+      "weight": 2.3592599633890114,
+      "distance": 1.5728399755926745,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_256",
+      "weight": 3.445127843511284,
+      "distance": 2.29675189567419,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_256": [
+    {
+      "node": "n_255",
+      "weight": 3.445127843511284,
+      "distance": 2.29675189567419,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_257",
+      "weight": 2.3592599633890114,
+      "distance": 1.5728399755926745,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_218",
+      "weight": 29.204864857120164,
+      "distance": 19.469909904746775,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_257": [
+    {
+      "node": "n_256",
+      "weight": 2.3592599633890114,
+      "distance": 1.5728399755926745,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_258",
+      "weight": 1.831948538999419,
+      "distance": 1.2212990259996126,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_258": [
+    {
+      "node": "n_257",
+      "weight": 1.831948538999419,
+      "distance": 1.2212990259996126,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_259",
+      "weight": 2.0631129887374815,
+      "distance": 1.3754086591583212,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_259": [
+    {
+      "node": "n_258",
+      "weight": 2.0631129887374815,
+      "distance": 1.3754086591583212,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_260",
+      "weight": 2.3066304440398833,
+      "distance": 1.5377536293599223,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_260": [
+    {
+      "node": "n_259",
+      "weight": 2.3066304440398833,
+      "distance": 1.5377536293599223,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_261",
+      "weight": 2.002716064453125,
+      "distance": 1.33514404296875,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_261": [
+    {
+      "node": "n_260",
+      "weight": 2.002716064453125,
+      "distance": 1.33514404296875,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_242",
+      "weight": 2.002716064453125,
+      "distance": 1.33514404296875,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_221",
+      "weight": 54.93834573831457,
+      "distance": 36.62556382554305,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_262": [
+    {
+      "node": "n_263",
+      "weight": 2.0631129887374815,
+      "distance": 1.3754086591583212,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_280",
+      "weight": 2.5589767198560214,
+      "distance": 1.7059844799040145,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_263": [
+    {
+      "node": "n_262",
+      "weight": 2.0631129887374815,
+      "distance": 1.3754086591583212,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_264",
+      "weight": 2.5589767198560214,
+      "distance": 1.7059844799040145,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_264": [
+    {
+      "node": "n_263",
+      "weight": 2.5589767198560214,
+      "distance": 1.7059844799040145,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_265",
+      "weight": 2.288818359375,
+      "distance": 1.52587890625,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_222",
+      "weight": 58.39921838041341,
+      "distance": 38.93281225360894,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_265": [
+    {
+      "node": "n_264",
+      "weight": 2.288818359375,
+      "distance": 1.52587890625,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_266",
+      "weight": 2.5589767198560214,
+      "distance": 1.7059844799040145,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_266": [
+    {
+      "node": "n_265",
+      "weight": 2.5589767198560214,
+      "distance": 1.7059844799040145,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_267",
+      "weight": 2.86102294921875,
+      "distance": 1.9073486328125,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_267": [
+    {
+      "node": "n_266",
+      "weight": 2.86102294921875,
+      "distance": 1.9073486328125,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_268",
+      "weight": 2.5589767198560214,
+      "distance": 1.7059844799040145,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_268": [
+    {
+      "node": "n_267",
+      "weight": 2.5589767198560214,
+      "distance": 1.7059844799040145,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_269",
+      "weight": 2.3066304440398833,
+      "distance": 1.5377536293599223,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_269": [
+    {
+      "node": "n_268",
+      "weight": 2.3066304440398833,
+      "distance": 1.5377536293599223,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_270",
+      "weight": 2.3066304440398833,
+      "distance": 1.5377536293599223,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_216",
+      "weight": 29.468536376953125,
+      "distance": 19.64569091796875,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_270": [
+    {
+      "node": "n_269",
+      "weight": 2.3066304440398833,
+      "distance": 1.5377536293599223,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_271",
+      "weight": 2.5589767198560214,
+      "distance": 1.7059844799040145,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_271": [
+    {
+      "node": "n_270",
+      "weight": 2.5589767198560214,
+      "distance": 1.7059844799040145,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_272",
+      "weight": 2.6990836521310624,
+      "distance": 1.7993891014207084,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_272": [
+    {
+      "node": "n_271",
+      "weight": 2.6990836521310624,
+      "distance": 1.7993891014207084,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_273",
+      "weight": 2.3066304440398833,
+      "distance": 1.5377536293599223,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_273": [
+    {
+      "node": "n_272",
+      "weight": 2.3066304440398833,
+      "distance": 1.5377536293599223,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_274",
+      "weight": 2.002716064453125,
+      "distance": 1.33514404296875,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_274": [
+    {
+      "node": "n_273",
+      "weight": 2.002716064453125,
+      "distance": 1.33514404296875,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_275",
+      "weight": 2.5589767198560214,
+      "distance": 1.7059844799040145,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_275": [
+    {
+      "node": "n_274",
+      "weight": 2.5589767198560214,
+      "distance": 1.7059844799040145,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_276",
+      "weight": 2.0631129887374815,
+      "distance": 1.3754086591583212,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_281",
+      "weight": 52.64359971177258,
+      "distance": 35.095733141181725,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_276": [
+    {
+      "node": "n_275",
+      "weight": 2.0631129887374815,
+      "distance": 1.3754086591583212,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_277",
+      "weight": 1.831948538999419,
+      "distance": 1.2212990259996126,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_277": [
+    {
+      "node": "n_276",
+      "weight": 1.831948538999419,
+      "distance": 1.2212990259996126,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_278",
+      "weight": 2.4444590793564407,
+      "distance": 1.629639386237627,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_278": [
+    {
+      "node": "n_277",
+      "weight": 2.4444590793564407,
+      "distance": 1.629639386237627,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_279",
+      "weight": 2.3066304440398833,
+      "distance": 1.5377536293599223,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_279": [
+    {
+      "node": "n_278",
+      "weight": 2.3066304440398833,
+      "distance": 1.5377536293599223,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_280",
+      "weight": 3.480584638766224,
+      "distance": 2.3203897591774822,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_210",
+      "weight": 29.77663840772481,
+      "distance": 19.85109227181654,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_280": [
+    {
+      "node": "n_279",
+      "weight": 3.480584638766224,
+      "distance": 2.3203897591774822,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_262",
+      "weight": 2.5589767198560214,
+      "distance": 1.7059844799040145,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_281": [
+    {
+      "node": "n_275",
+      "weight": 52.64359971177258,
+      "distance": 35.095733141181725,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_209",
+      "weight": 32.57751464843749,
+      "distance": 23.2696533203125,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_214",
+      "weight": 34.997077229399046,
+      "distance": 24.99791230671361,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_282": [
+    {
+      "node": "n_231",
+      "weight": 17.389706586632464,
+      "distance": 12.421218990451763,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_283",
+      "weight": 54.74090576171875,
+      "distance": 39.10064697265625,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "b_17",
+      "weight": 45.72870528046552,
+      "distance": 30.48580352031035,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_283": [
+    {
+      "node": "n_282",
+      "weight": 54.74090576171875,
+      "distance": 39.10064697265625,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_238",
+      "weight": 60.6531706974,
+      "distance": 43.32369335528571,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "b_16",
+      "weight": 43.057969970207175,
+      "distance": 28.705313313471446,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_284": [
+    {
+      "node": "n_220",
+      "weight": 40.61033257500847,
+      "distance": 29.007380410720344,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_285",
+      "weight": 58.7681816411378,
+      "distance": 41.97727260081272,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_291",
+      "weight": 42.672005694780054,
+      "distance": 30.48000406770004,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_285": [
+    {
+      "node": "n_284",
+      "weight": 58.7681816411378,
+      "distance": 41.97727260081272,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_286",
+      "weight": 87.62614537517975,
+      "distance": 62.5901038394141,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_317",
+      "weight": 42.51128824404752,
+      "distance": 30.365205888605374,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_286": [
+    {
+      "node": "n_285",
+      "weight": 87.62614537517975,
+      "distance": 62.5901038394141,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_287",
+      "weight": 122.8901275317314,
+      "distance": 87.77866252266529,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_55",
+      "weight": 69.98040039909297,
+      "distance": 49.98600028506641,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_294",
+      "weight": 123.91978159901396,
+      "distance": 88.51412971358141,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_287": [
+    {
+      "node": "n_286",
+      "weight": 122.8901275317314,
+      "distance": 87.77866252266529,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_189",
+      "weight": 13.888065394229264,
+      "distance": 9.92004671016376,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_288": [
+    {
+      "node": "n_39",
+      "weight": 22.889971663249522,
+      "distance": 15.259981108833017,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "n_289",
+      "weight": 37.7655029296875,
+      "distance": 25.177001953125,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_289": [
+    {
+      "node": "n_288",
+      "weight": 37.7655029296875,
+      "distance": 25.177001953125,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_290": [
+    {
+      "node": "n_208",
+      "weight": 44.86083984375,
+      "distance": 32.04345703125,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "b_3",
+      "weight": 73.27709682105896,
+      "distance": 48.851397880705974,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    },
+    {
+      "node": "b_14",
+      "weight": 65.37714978141142,
+      "distance": 43.584766520940946,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_291": [
+    {
+      "node": "n_284",
+      "weight": 42.672005694780054,
+      "distance": 30.48000406770004,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_320",
+      "weight": 64.09192065709867,
+      "distance": 45.77994332649905,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_317",
+      "weight": 60.903645932573305,
+      "distance": 43.50260423755237,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_292": [
+    {
+      "node": "n_239",
+      "weight": 96.40331725664986,
+      "distance": 68.85951232617847,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_293",
+      "weight": 57.68811176436489,
+      "distance": 41.2057941174035,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_327",
+      "weight": 48.06592728784227,
+      "distance": 34.33280520560162,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_293": [
+    {
+      "node": "n_292",
+      "weight": 57.68811176436489,
+      "distance": 41.2057941174035,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_294",
+      "weight": 28.839111328125,
+      "distance": 20.599365234375,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_322",
+      "weight": 21.97384831055967,
+      "distance": 18.311540258799727,
+      "road_type": "path",
+      "weight_factor": 1.2
+    }
+  ],
+  "n_294": [
+    {
+      "node": "n_293",
+      "weight": 28.839111328125,
+      "distance": 20.599365234375,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_286",
+      "weight": 123.91978159901396,
+      "distance": 88.51412971358141,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_326",
+      "weight": 12.751820322129015,
+      "distance": 10.626516935107514,
+      "road_type": "path",
+      "weight_factor": 1.2
+    }
+  ],
+  "n_295": [
+    {
+      "node": "n_179",
+      "weight": 22.189113902861873,
+      "distance": 15.849367073472768,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "b_4",
+      "weight": 72.6510163324965,
+      "distance": 48.434010888331,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "n_296": [
+    {
+      "node": "n_180",
+      "weight": 27.054380571619262,
+      "distance": 19.32455755115662,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_297": [
+    {
+      "node": "n_188",
+      "weight": 92.9264090519143,
+      "distance": 66.37600646565308,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_298",
+      "weight": 44.378227805723746,
+      "distance": 31.698734146945537,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_298": [
+    {
+      "node": "n_297",
+      "weight": 44.378227805723746,
+      "distance": 31.698734146945537,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_299": [
+    {
+      "node": "n_300",
+      "weight": 41.67018567563419,
+      "distance": 29.764418339738707,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_197",
+      "weight": 13.127935771632838,
+      "distance": 9.377096979737743,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_302",
+      "weight": 16.05729288461462,
+      "distance": 11.469494917581871,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_300": [
+    {
+      "node": "n_299",
+      "weight": 41.67018567563419,
+      "distance": 29.764418339738707,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_301",
+      "weight": 15.898869251438807,
+      "distance": 11.35633517959915,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_301": [
+    {
+      "node": "n_300",
+      "weight": 15.898869251438807,
+      "distance": 11.35633517959915,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_302",
+      "weight": 40.596283594670226,
+      "distance": 28.997345424764443,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_302": [
+    {
+      "node": "n_299",
+      "weight": 16.05729288461462,
+      "distance": 11.469494917581871,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_301",
+      "weight": 40.596283594670226,
+      "distance": 28.997345424764443,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_303": [
+    {
+      "node": "n_52",
+      "weight": 22.189113902861873,
+      "distance": 15.849367073472768,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_304",
+      "weight": 5.751976570120472,
+      "distance": 4.108554692943194,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_304": [
+    {
+      "node": "n_303",
+      "weight": 5.751976570120472,
+      "distance": 4.108554692943194,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_305",
+      "weight": 5.575725216855915,
+      "distance": 3.982660869182797,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_305": [
+    {
+      "node": "n_304",
+      "weight": 5.575725216855915,
+      "distance": 3.982660869182797,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_306",
+      "weight": 105.7599276345207,
+      "distance": 75.54280545322908,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_306": [
+    {
+      "node": "n_305",
+      "weight": 105.7599276345207,
+      "distance": 75.54280545322908,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_307",
+      "weight": 5.751976570120472,
+      "distance": 4.108554692943194,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_307": [
+    {
+      "node": "n_306",
+      "weight": 5.751976570120472,
+      "distance": 4.108554692943194,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_308",
+      "weight": 4.663457655945238,
+      "distance": 3.3310411828180273,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_308": [
+    {
+      "node": "n_307",
+      "weight": 4.663457655945238,
+      "distance": 3.3310411828180273,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_53",
+      "weight": 22.189113902861873,
+      "distance": 15.849367073472768,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_309": [
+    {
+      "node": "n_237",
+      "weight": 88.9462499863352,
+      "distance": 63.53303570452516,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_310",
+      "weight": 4.539489746093749,
+      "distance": 3.24249267578125,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_310": [
+    {
+      "node": "n_309",
+      "weight": 4.539489746093749,
+      "distance": 3.24249267578125,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_311",
+      "weight": 19.43999070166154,
+      "distance": 13.885707644043958,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_327",
+      "weight": 58.7469447711462,
+      "distance": 41.96210340796157,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_311": [
+    {
+      "node": "n_310",
+      "weight": 19.43999070166154,
+      "distance": 13.885707644043958,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_312",
+      "weight": 29.53415881727796,
+      "distance": 21.095827726627114,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_329",
+      "weight": 43.81159465578149,
+      "distance": 36.50966221315124,
+      "road_type": "path",
+      "weight_factor": 1.2
+    }
+  ],
+  "n_312": [
+    {
+      "node": "n_311",
+      "weight": 29.53415881727796,
+      "distance": 21.095827726627114,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_313",
+      "weight": 10.734425254493136,
+      "distance": 7.667446610352241,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_313": [
+    {
+      "node": "n_312",
+      "weight": 10.734425254493136,
+      "distance": 7.667446610352241,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_314",
+      "weight": 15.52445876712653,
+      "distance": 11.088899119376094,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_321",
+      "weight": 47.609622611017585,
+      "distance": 39.67468550918132,
+      "road_type": "path",
+      "weight_factor": 1.2
+    }
+  ],
+  "n_314": [
+    {
+      "node": "n_313",
+      "weight": 15.52445876712653,
+      "distance": 11.088899119376094,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_315",
+      "weight": 32.6474798611589,
+      "distance": 23.31962847225636,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_318",
+      "weight": 122.83789584462033,
+      "distance": 87.7413541747288,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_315": [
+    {
+      "node": "n_314",
+      "weight": 32.6474798611589,
+      "distance": 23.31962847225636,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_316",
+      "weight": 16.59020568375602,
+      "distance": 11.850146916968587,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_323",
+      "weight": 30.5786475449787,
+      "distance": 25.48220628748225,
+      "road_type": "path",
+      "weight_factor": 1.2
+    }
+  ],
+  "n_316": [
+    {
+      "node": "n_315",
+      "weight": 16.59020568375602,
+      "distance": 11.850146916968587,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_317",
+      "weight": 47.57910889123434,
+      "distance": 33.98507777945311,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_317": [
+    {
+      "node": "n_316",
+      "weight": 47.57910889123434,
+      "distance": 33.98507777945311,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_285",
+      "weight": 42.51128824404752,
+      "distance": 30.365205888605374,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_291",
+      "weight": 60.903645932573305,
+      "distance": 43.50260423755237,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_323",
+      "weight": 31.35012812984671,
+      "distance": 26.125106774872258,
+      "road_type": "path",
+      "weight_factor": 1.2
+    }
+  ],
+  "n_318": [
+    {
+      "node": "n_314",
+      "weight": 122.83789584462033,
+      "distance": 87.7413541747288,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_226",
+      "weight": 26.704215970041034,
+      "distance": 19.07443997860074,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_319",
+      "weight": 51.04722064815347,
+      "distance": 36.462300462966766,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_319": [
+    {
+      "node": "n_318",
+      "weight": 51.04722064815347,
+      "distance": 36.462300462966766,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_320",
+      "weight": 47.00920641865775,
+      "distance": 33.57800458475553,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_225",
+      "weight": 27.791529180543154,
+      "distance": 19.85109227181654,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_320": [
+    {
+      "node": "n_319",
+      "weight": 47.00920641865775,
+      "distance": 33.57800458475553,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_291",
+      "weight": 64.09192065709867,
+      "distance": 45.77994332649905,
+      "road_type": "service",
+      "weight_factor": 1.4
+    }
+  ],
+  "n_321": [
+    {
+      "node": "n_313",
+      "weight": 47.609622611017585,
+      "distance": 39.67468550918132,
+      "road_type": "path",
+      "weight_factor": 1.2
+    },
+    {
+      "node": "n_322",
+      "weight": 10.986328125,
+      "distance": 9.1552734375,
+      "road_type": "path",
+      "weight_factor": 1.2
+    },
+    {
+      "node": "n_328",
+      "weight": 23.327988841993847,
+      "distance": 19.43999070166154,
+      "road_type": "path",
+      "weight_factor": 1.2
+    }
+  ],
+  "n_322": [
+    {
+      "node": "n_321",
+      "weight": 10.986328125,
+      "distance": 9.1552734375,
+      "road_type": "path",
+      "weight_factor": 1.2
+    },
+    {
+      "node": "n_293",
+      "weight": 21.97384831055967,
+      "distance": 18.311540258799727,
+      "road_type": "path",
+      "weight_factor": 1.2
+    },
+    {
+      "node": "n_326",
+      "weight": 30.76311516998254,
+      "distance": 25.63592930831878,
+      "road_type": "path",
+      "weight_factor": 1.2
+    }
+  ],
+  "n_323": [
+    {
+      "node": "n_315",
+      "weight": 30.5786475449787,
+      "distance": 25.48220628748225,
+      "road_type": "path",
+      "weight_factor": 1.2
+    },
+    {
+      "node": "n_317",
+      "weight": 31.35012812984671,
+      "distance": 26.125106774872258,
+      "road_type": "path",
+      "weight_factor": 1.2
+    },
+    {
+      "node": "n_324",
+      "weight": 26.574945514469235,
+      "distance": 22.145787928724367,
+      "road_type": "path",
+      "weight_factor": 1.2
+    }
+  ],
+  "n_324": [
+    {
+      "node": "n_323",
+      "weight": 26.574945514469235,
+      "distance": 22.145787928724367,
+      "road_type": "path",
+      "weight_factor": 1.2
+    },
+    {
+      "node": "n_325",
+      "weight": 17.663984419166326,
+      "distance": 14.719987015971938,
+      "road_type": "path",
+      "weight_factor": 1.2
+    }
+  ],
+  "n_325": [
+    {
+      "node": "n_324",
+      "weight": 17.663984419166326,
+      "distance": 14.719987015971938,
+      "road_type": "path",
+      "weight_factor": 1.2
+    },
+    {
+      "node": "n_326",
+      "weight": 21.00855989534663,
+      "distance": 17.507133246122187,
+      "road_type": "path",
+      "weight_factor": 1.2
+    }
+  ],
+  "n_326": [
+    {
+      "node": "n_325",
+      "weight": 21.00855989534663,
+      "distance": 17.507133246122187,
+      "road_type": "path",
+      "weight_factor": 1.2
+    },
+    {
+      "node": "n_294",
+      "weight": 12.751820322129015,
+      "distance": 10.626516935107514,
+      "road_type": "path",
+      "weight_factor": 1.2
+    },
+    {
+      "node": "n_322",
+      "weight": 30.76311516998254,
+      "distance": 25.63592930831878,
+      "road_type": "path",
+      "weight_factor": 1.2
+    }
+  ],
+  "n_327": [
+    {
+      "node": "n_310",
+      "weight": 58.7469447711462,
+      "distance": 41.96210340796157,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_292",
+      "weight": 48.06592728784227,
+      "distance": 34.33280520560162,
+      "road_type": "service",
+      "weight_factor": 1.4
+    },
+    {
+      "node": "n_329",
+      "weight": 24.643889134486155,
+      "distance": 20.536574278738463,
+      "road_type": "path",
+      "weight_factor": 1.2
+    }
+  ],
+  "n_328": [
+    {
+      "node": "n_321",
+      "weight": 23.327988841993847,
+      "distance": 19.43999070166154,
+      "road_type": "path",
+      "weight_factor": 1.2
+    },
+    {
+      "node": "n_329",
+      "weight": 6.042653861592447,
+      "distance": 5.035544884660372,
+      "road_type": "path",
+      "weight_factor": 1.2
+    }
+  ],
+  "n_329": [
+    {
+      "node": "n_328",
+      "weight": 6.042653861592447,
+      "distance": 5.035544884660372,
+      "road_type": "path",
+      "weight_factor": 1.2
+    },
+    {
+      "node": "n_311",
+      "weight": 43.81159465578149,
+      "distance": 36.50966221315124,
+      "road_type": "path",
+      "weight_factor": 1.2
+    },
+    {
+      "node": "n_327",
+      "weight": 24.643889134486155,
+      "distance": 20.536574278738463,
+      "road_type": "path",
+      "weight_factor": 1.2
+    }
+  ],
+  "b_0": [
+    {
+      "node": "n_199",
+      "weight": 54.974218672286135,
+      "distance": 36.64947911485742,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "b_1": [
+    {
+      "node": "n_211",
+      "weight": 51.750332205127314,
+      "distance": 34.500221470084874,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "b_2": [
+    {
+      "node": "n_80",
+      "weight": 44.73450455424786,
+      "distance": 29.823003036165243,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "b_3": [
+    {
+      "node": "n_290",
+      "weight": 73.27709682105896,
+      "distance": 48.851397880705974,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "b_4": [
+    {
+      "node": "n_295",
+      "weight": 72.6510163324965,
+      "distance": 48.434010888331,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "b_5": [
+    {
+      "node": "n_179",
+      "weight": 33.150005920423105,
+      "distance": 22.100003946948732,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "b_6": [
+    {
+      "node": "n_227",
+      "weight": 78.72768039007826,
+      "distance": 52.48512026005217,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "b_7": [
+    {
+      "node": "n_162",
+      "weight": 81.84975777453931,
+      "distance": 54.56650518302622,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "b_8": [
+    {
+      "node": "n_181",
+      "weight": 70.64265891968965,
+      "distance": 47.09510594645976,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "b_9": [
+    {
+      "node": "n_181",
+      "weight": 69.22498004373723,
+      "distance": 46.14998669582482,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "b_10": [
+    {
+      "node": "n_57",
+      "weight": 69.7683567641542,
+      "distance": 46.51223784276947,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "b_11": [
+    {
+      "node": "n_81",
+      "weight": 73.7495156114272,
+      "distance": 49.16634374095147,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "b_12": [
+    {
+      "node": "n_81",
+      "weight": 70.04020126400236,
+      "distance": 46.69346750933491,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "b_13": [
+    {
+      "node": "n_208",
+      "weight": 71.51364412332258,
+      "distance": 47.67576274888172,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "b_14": [
+    {
+      "node": "n_290",
+      "weight": 65.37714978141142,
+      "distance": 43.584766520940946,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "b_15": [
+    {
+      "node": "n_236",
+      "weight": 80.27864741636093,
+      "distance": 53.519098277573946,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "b_16": [
+    {
+      "node": "n_283",
+      "weight": 43.057969970207175,
+      "distance": 28.705313313471446,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ],
+  "b_17": [
+    {
+      "node": "n_282",
+      "weight": 45.72870528046552,
+      "distance": 30.48580352031035,
+      "road_type": "footway",
+      "weight_factor": 1.5
+    }
+  ]
+}
